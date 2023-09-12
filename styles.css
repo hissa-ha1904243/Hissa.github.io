@@ -253,11 +253,15 @@ section {
     }
 
     .project-card {
-
-        margin-right: 5px;
+        height: 470px;
+        width: 265px;
+        margin-right: 0px;
 
     }
-
+    .project-body {
+        padding: 0px 10px;
+    }
+    
 
     .contact-container img {
         width: 350px;
